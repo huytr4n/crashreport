@@ -2,7 +2,7 @@
   "name": "crashreport",
   "version": "0.0.1",
   "description": "A crash report plugin for node",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "npm test"
   },
