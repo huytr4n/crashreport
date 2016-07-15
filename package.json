@@ -16,5 +16,11 @@
     "report"
   ],
   "author": "Huy Tran",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "0.5.1",
+    "nodemailer": "0.5.15",
+    "request": "2.73.0",
+    "underscore": "1.8.3"
+  }
 }
