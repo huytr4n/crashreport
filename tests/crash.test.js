@@ -1,6 +1,6 @@
 'use strict';
 
-var Crash = require('../lib/main');
+var Crash = require('../lib');
 new Crash({
   actions: ['http'],
   actionHttpUrl: 'http://localhost:3000/?api_key=123',
